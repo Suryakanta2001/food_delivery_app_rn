@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "food_delivery_app_rn",
-    "slug": "food_delivery_app_rn",
+    "name": "fast_food",
+    "slug": "fast_food",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fooddeliveryapprn",
+    "scheme": "fastfood",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
